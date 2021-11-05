@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/song-search/static/css/main.3a75242c.chunk.css",
+    "main.js": "/song-search/static/js/main.4fa8436a.chunk.js",
+    "main.js.map": "/song-search/static/js/main.4fa8436a.chunk.js.map",
+    "runtime-main.js": "/song-search/static/js/runtime-main.1a44119e.js",
+    "runtime-main.js.map": "/song-search/static/js/runtime-main.1a44119e.js.map",
+    "static/js/2.3552b0b9.chunk.js": "/song-search/static/js/2.3552b0b9.chunk.js",
+    "static/js/2.3552b0b9.chunk.js.map": "/song-search/static/js/2.3552b0b9.chunk.js.map",
+    "static/js/3.3b0755c1.chunk.js": "/song-search/static/js/3.3b0755c1.chunk.js",
+    "static/js/3.3b0755c1.chunk.js.map": "/song-search/static/js/3.3b0755c1.chunk.js.map",
+    "index.html": "/song-search/index.html",
+    "static/css/main.3a75242c.chunk.css.map": "/song-search/static/css/main.3a75242c.chunk.css.map",
+    "static/js/2.3552b0b9.chunk.js.LICENSE.txt": "/song-search/static/js/2.3552b0b9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/song-search/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a44119e.js",
+    "static/js/2.3552b0b9.chunk.js",
+    "static/css/main.3a75242c.chunk.css",
+    "static/js/main.4fa8436a.chunk.js"
+  ]
+}
